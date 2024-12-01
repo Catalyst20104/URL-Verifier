@@ -13,9 +13,10 @@ A URL Safety Checker built with Express.js that validates whether a URL is safe 
 **4.Provides detailed responses on URL safety.**
 
 ## Tech Stack
--**Backend: Express.js**
+# -**Backend: Express.js**
 
--**Libraries:**
+# -**Libraries:**
+
 **1.Axios: For making HTTP requests to gather additional URL data.**
 
 **2.WHOIS: To fetch domain registration information.**
